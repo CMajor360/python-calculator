@@ -1,0 +1,5 @@
+C Major's Calculator
+Offline history:
+--------------------
+1. 5.0 / 4.0 = <map object at 0x00000157EE8085B0>
+--------------------
